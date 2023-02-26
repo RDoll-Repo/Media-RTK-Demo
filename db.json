@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Esther Yundt",
+      "id": 5
+    },
+    {
+      "name": "Miss Kent Mante",
+      "id": 6
+    },
+    {
+      "name": "Stacey Fahey",
+      "id": 7
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
